@@ -17,4 +17,5 @@ export default new Router({
       redirect: '/dashboard',
     },
   ],
+  mode: 'history',
 });
